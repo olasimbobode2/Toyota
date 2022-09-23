@@ -100,7 +100,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>Toyota</finalName>
 		
 		<plugins>
 			<plugin>
