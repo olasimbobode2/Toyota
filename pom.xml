@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://52.201.150.106:8081/repository/master-card-snapshot/</url>
+	      <url>http://52.201.150.106:8081/repository/Toyota-Snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
