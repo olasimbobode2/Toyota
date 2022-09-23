@@ -14,6 +14,7 @@
 	Landmark Technology Tesla web application project2. I am a Chosen, I must succeed by the Grace of God
 	</h2>
 	<h2 align="center" >DevOps is good. I AM A CHOSEN, I WILL SUCEED BEYOUND REASONABLE DOUBT JESUS IS LORD. I AM BLESSED. Production</h2>
+	I know my redeemer liveth
 <hr>
 <div style="text-align: center;">
 	<span>
