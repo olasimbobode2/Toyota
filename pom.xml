@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>0.0.1</version>
 	
-	<name>master-card-project</name>
+	<name>mastercard</name>
 
 	<description>Maven Web Project for Java Project</description>
 	<organization>
