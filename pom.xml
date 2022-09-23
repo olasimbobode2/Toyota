@@ -44,13 +44,6 @@
 		</dependency>
 
 		<dependency>
-			<groupId>javax.servlet</groupId>
-			<artifactId>javax.servlet-api</artifactId>
-			<version>3.1.0</version>
-			<scope>provided</scope>
-		</dependency>
-
-		<dependency>
 			<groupId>org.mockito</groupId>
 			<artifactId>mockito-core</artifactId>
 			<version>1.9.5</version>
@@ -102,7 +95,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://52.201.150.106:8081/repository/Toyota/</url>
+	      <url>http://52.201.150.106:8081/repository/Toyota-Snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
