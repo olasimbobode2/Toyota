@@ -100,7 +100,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Toyota</finalName>
+		<finalName>goole-app</finalName>
 		
 		<plugins>
 			<plugin>
