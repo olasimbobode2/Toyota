@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.2</version>
+	<version>0.0.1-SNAPSHOT</version>
 	
 	<name>mastercard</name>
 
@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.201.150.106:8081/repository/Toyota-Release/</url> 
+	      <url>http://52.201.150.106:8081/repository/Toyota-Releases/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://52.201.150.106:8081/repository/Toyota-Snapshot/</url>
+	      <url>http://52.201.150.106:8081/repository/Toyota/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
